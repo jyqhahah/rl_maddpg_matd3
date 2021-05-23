@@ -15,7 +15,7 @@ This is a multi-agent project in pytorch for the environment of Multi-Agent Part
 
 ## How to use
 - pip install -r requirements.txt
-- cd MAProj/algo
+- cd rl_maddpg_matd3/algo
 ### (if you want to train)
 - python ma_main.py --algo matd3 --mode train
 ### (if you want to eval)
