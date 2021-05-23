@@ -7,7 +7,7 @@ This is a multi-agent project in pytorch for the environment of Multi-Agent Part
 ## MADDPG After 15000 Episode Training:
 ![maddpg](https://github.com/jyqhahah/rl_maddpg_matd3/blob/main/asset/maddpg_15000.gif)
 
-## MADDPG After 15000 Episode Training:
+## MATD3 After 15000 Episode Training:
 ![matd3](https://github.com/jyqhahah/rl_maddpg_matd3/blob/main/asset/matd3_15000.gif)
 
 ## Training curves:
