@@ -6,11 +6,11 @@ INFERENCE:
 - https://github.com/isp1tze/MAProj
 - https://github.com/openai/multiagent-particle-envs
 
-## MADDPG After 10000 Episode Training:
-![maddpg](https://github.com/jyqhahah/rl_maddpg_matd3/blob/main/asset/maddpg_10000.gif)
+## MADDPG After 15000 Episode Training:
+![maddpg](https://github.com/jyqhahah/rl_maddpg_matd3/blob/main/asset/maddpg_15000.gif)
 
-## MADDPG After 10000 Episode Training:
-![matd3](https://github.com/jyqhahah/rl_maddpg_matd3/blob/main/asset/matd3_10000.gif)
+## MADDPG After 15000 Episode Training:
+![matd3](https://github.com/jyqhahah/rl_maddpg_matd3/blob/main/asset/matd3_15000.gif)
 
 ## Training curves:
 ![curves](https://github.com/jyqhahah/rl_maddpg_matd3/blob/main/asset/curve.png)
@@ -18,9 +18,9 @@ INFERENCE:
 ## How to use
 - pip install -r requirements.txt
 - cd MAProj/algo
-  (if you want to train)
+- (if you want to train)
 - python ma_main.py --algo matd3 --mode train
-  (if you want to eval)
+- (if you want to eval)
 - python ma_main.py --algo matd3 --mode eval --model_episode 20000
 
 ## To do list
