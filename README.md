@@ -1,6 +1,6 @@
 # MATD3
 
-This is a multi-agent project in pytorch for the environment of Multi-Agent Particle Environment "simple_spread"(https://github.com/openai/multiagent-particle-envs). The model "MATD3" combines MADDPG(https://arxiv.org/abs/1706.02275) and TWIN DELAYED DDPG (https://www.researchgate.net/profile/Wenfeng-Zheng/publication/341648433_Twin-Delayed_DDPG_A_Deep_Reinforcement_Learning_Technique_to_Model_a_Continuous_Movement_of_an_Intelligent_Robot_Agent/links/5ed9ae3e92851c9c5e816d19/Twin-Delayed-DDPG-A-Deep-Reinforcement-Learning-Technique-to-Model-a-Continuous-Movement-of-an-Intelligent-Robot-Agent.pdf)
+This is a multi-agent project in pytorch for the environment of Multi-Agent Particle Environment "simple_spread"(https://github.com/openai/multiagent-particle-envs). The model "MATD3" combines MADDPG(https://arxiv.org/abs/1706.02275) and TWIN DELAYED DDPG (https://arxiv.org/abs/1802.09477)
 
 
 

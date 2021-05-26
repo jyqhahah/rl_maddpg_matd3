@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="255a52bc-308b-420c-b09e-08bf77fe04e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MADDPG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MADDPG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +25,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/algo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../nlp_AIhomework/electra/reclor" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -82,6 +84,7 @@
       <workItem from="1621517377992" duration="3155000" />
       <workItem from="1621527414536" duration="43908000" />
       <workItem from="1621755470278" duration="4602000" />
+      <workItem from="1621846522270" duration="1630000" />
     </task>
     <servers />
   </component>
@@ -109,10 +112,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="231" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621577887057" />
-    <state x="1048" y="234" key="FileChooserDialogImpl" timestamp="1621582013563">
+    <state x="1048" y="234" key="FileChooserDialogImpl" timestamp="1621856252745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1048" y="234" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621582013563" />
+    <state x="1048" y="234" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621856252745" />
     <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1621767021446">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -129,14 +132,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621767021446" />
-    <state x="184" y="36" width="974" height="1003" key="SettingsEditor" timestamp="1621755749986">
+    <state x="184" y="208" width="974" height="831" key="SettingsEditor" timestamp="1621846730234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="36" width="974" height="1003" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621755749986" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1621755470302">
+    <state x="184" y="208" width="974" height="831" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621846730234" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1621846584291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621755470302" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621846584291" />
     <state x="701" y="250" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1621575891646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
